@@ -1,10 +1,10 @@
 # Café Delicia
 
-Bienvenido al repositorio de Café Delicia, una marca caleña comprometida con ofrecerte una experiencia auténtica y acogedora. Somos cálidos, auténticos y amables en todo lo que hacemos. Buscamos crear momentos de verdadera delicia para todos con nuestra selección de cafés locales de primera y platos para calmar el hambre. Nuestro enfoque cálido y amistoso refleja nuestro compromiso con tu satisfacción y el bienestar de los caleños.
+¡Bienvenido al repositorio de Café Delicia! Somos una marca caleña comprometida en ofrecerte una experiencia auténtica y acogedora. Nuestro objetivo es crear momentos de verdadera delicia para todos con nuestra selección de cafés locales de primera y platos para calmar el hambre. Nuestro enfoque cálido y amistoso refleja nuestro compromiso con tu satisfacción y el bienestar de los caleños.
 
 ## Información del Proyecto
 
-Este proyecto ha sido desarrollado utilizando Next.js y TypeScript, aprovechando al máximo las características y ventajas que ofrecen estas tecnologías para crear una aplicación web robusta y escalable.
+Este proyecto ha sido desarrollado utilizando Next.js y TypeScript para crear una aplicación web robusta y escalable.
 
 ## Localización
 
@@ -17,6 +17,17 @@ Priorizamos los productos locales, colaborando estrechamente con agricultores de
 ### Enfoque Holístico
 
 Consideramos cada aspecto del proceso de producción con cuidado y respeto hacia la naturaleza, promoviendo prácticas sostenibles en cada etapa.
+
+## Variables de Entorno
+
+Asegúrate de configurar las siguientes variables de entorno antes de ejecutar la aplicación:
+
+- `PORT=3001`
+- `EMAIL_SERVICE=hotmail`
+- `EMAIL_USER=correo_electronico@hotmail.com`
+- `EMAIL_PASSWORD=contraseña`
+- `EMAIL_TO=correo_destino@dominio.com`
+- `RECAPTCHA_SECRET_KEY=clave_secreta_de_recaptcha`
 
 ## Dependencias
 
